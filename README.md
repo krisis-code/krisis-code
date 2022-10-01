@@ -1,5 +1,5 @@
 ### Hi there, I'm Krisis. :smirk:
-<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="400" height="400" >
+<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="1000" height="400" >
 
 ## Software developer | Youtube Content Creator
 
