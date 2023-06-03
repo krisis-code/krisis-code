@@ -1,7 +1,7 @@
 ### Hi there, I'm Krisis. :smirk:
 <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="1000" height="400" >
 
-## Software developer | Youtube Content Creator
+## Ful time IT Assistant Specialist & Part time Backend Developer
 
 <br><font color = "Green">while(1) </font>
 <br><font color = "Green">{ </font>
