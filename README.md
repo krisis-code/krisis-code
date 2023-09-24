@@ -1,7 +1,7 @@
 ### Hi there, I'm Krisis. :smirk:
 <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="1000" height="400" >
 
-## Ful time IT Assistant Specialist & Part time Backend Developer
+## System Support Specialist &  Backend Developer
 
 <br><font color = "Green">while(1) </font>
 <br><font color = "Green">{ </font>
@@ -14,7 +14,7 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align = "left" />][Youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align = "left" />][Instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/#0A66C2.svg" align = "left" />][Linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align = "left" />][Linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/blogger.svg" align = "left" />][Blogger]
 <br>
 <br>
