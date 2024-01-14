@@ -12,6 +12,13 @@
 
 ###
 
+<br><font color = "Green">while(1) </font>
+<br><font color = "Green">{ </font>
+<br><font color = "Green">Coffee</font>
+<br><font color = "Green"> `<coode />` </font>
+<br><font color = "Green">Sleep</font>
+<br><font color = "Green">}</font>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
