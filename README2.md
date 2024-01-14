@@ -40,4 +40,4 @@
 [Youtube]: https://www.youtube.com/channel/UCIi0UGUOTCp9QqnC6BnmFOQ
 [Instagram]: https://www.youtube.com/channel/UCIi0UGUOTCp9QqnC6BnmFOQ
 [linkedin]: https://www.linkedin.com/in/enes-ba%C5%9Fp%C4%B1nar-5520611b9/
-[Blogger]: https://enesbaspinar.com.tr/
+[Blogger]: https://enesbaspinar.com.tr/ 
