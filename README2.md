@@ -1,7 +1,7 @@
 ### Hi there, I'm Krisis. :smirk:
 <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="1000" height="400" >
 
-## ARP Specialist &  Backend Developer
+## Backend Developer
 
 <br><font color = "Green">while(1) </font>
 <br><font color = "Green">{ </font>
