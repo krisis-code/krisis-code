@@ -8,7 +8,7 @@
 
 ####
 
-<h3 align="left">ARP Specialist & Backend Developer</h3>
+<h3 align="left"Backend Developer</h3>
 
 #####
 
