@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+####
 
 
 <br clear="both">
@@ -50,7 +50,7 @@
 
 <img src="https://raw.githubusercontent.com/krisis-code/krisis-code/output/snake.svg" alt="Snake animation" />
 
-###
+####
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCIi0UGUOTCp9QqnC6BnmFOQ" target="_blank">
