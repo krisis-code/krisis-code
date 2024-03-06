@@ -10,7 +10,7 @@
 <br><font color = "Green">Sleep</font>
 <br><font color = "Green">}</font>
 
-### Reach out to me
+#### Reach out to me
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" align = "left" />][Youtube]
 [<img  width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align = "left" />][Instagram]
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### Tech I Use
+#### Tech I Use
 <img width="36" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" align = "left">
 <img width="36" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" align = "left">
 <img width="36" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align = "left">
